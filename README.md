@@ -1,6 +1,6 @@
 # install-node
 
-通过脚本在CentOS和Ubuntu上安装NodeJS和Yarn，并配置阿里云镜像加速。
+通过脚本在CentOS和Ubuntu上安装NodeJS和Yarn，并配置淘宝镜像加速。
 
 ## 给脚本可执行权限
 ```bash
